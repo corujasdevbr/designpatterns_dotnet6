@@ -12,6 +12,7 @@ Creational
 
 	2 - Factory Method(https://www.macoratti.net/19/09/c_factory1.htm)
 
+	3 - Abstract Factory(https://macoratti.net/21/07/c_abstrfactory1.htm)
 
 3. Qualquer dúvida manda e-mail fernando.guerra@corujasdev.com.br
 
