@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A - Criacional", "A - Criac
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Singleton", "01 - Singleton", "{9DB829D8-37FC-4487-AD02-0339BB5B4F8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorujasDev.DesignPatterns.Singleton", "CorujasDev.DesignPatterns.Singleton\CorujasDev.DesignPatterns.Singleton.csproj", "{05B69D6C-0AC9-4A67-AE7B-FA63050D6CB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{05B69D6C-0AC9-4A67-AE7B-FA63050D6CB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,5 +1,5 @@
 ﻿
-namespace CorujasDev.DesignPatterns.Singleton
+namespace Singleton
 {
     /// <summary>
     /// Singleton
