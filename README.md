@@ -14,6 +14,8 @@ Creational
 
 	3 - Abstract Factory(https://macoratti.net/21/07/c_abstrfactory1.htm)
 
+	4 - Builder(https://www.macoratti.net/19/05/net_builder1.htm)
+
 3. Qualquer dúvida manda e-mail fernando.guerra@corujasdev.com.br
 
 
