@@ -9,29 +9,31 @@ https://www.markdownguide.org/extended-syntax/
 Creational
 
 	1 - Singleton 
-			[Macoratti](https://macoratti.net/21/08/c_singleton1.htm)
-			[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/singleton)
-			[Microsoft](https://docs.microsoft.com/en-us/shows/Visual-Studio-Toolbox/Design-Patterns-Singleton)
+
+[Macoratti](https://macoratti.net/21/08/c_singleton1.htm)<br/>
+[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/singleton)<br/>
+[Microsoft](https://docs.microsoft.com/en-us/shows/Visual-Studio-Toolbox/Design-Patterns-Singleton)
 
 	2 - Factory Method
-			[Macoratti](https://www.macoratti.net/19/09/c_factory1.htm)
-			[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/factory-method)
-			[Microsoft](https://docs.microsoft.com/en-us/shows/Visual-Studio-Toolbox/Design-Patterns-Factories)
+
+[Macoratti](https://www.macoratti.net/19/09/c_factory1.htm)<br/>
+[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/factory-method)<br/>
+[Microsoft](https://docs.microsoft.com/en-us/shows/Visual-Studio-Toolbox/Design-Patterns-Factories)
 
 	3 - Abstract Factory
-			[Macoratti](https://macoratti.net/21/07/c_abstrfactory1.htm)
-			[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/abstract-factory)
-			[Devmedia](https://www.devmedia.com.br/padrao-abstract-factory/23030)
+[Macoratti](https://macoratti.net/21/07/c_abstrfactory1.htm)<br/>
+[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/abstract-factory)<br/>
+[Devmedia](https://www.devmedia.com.br/padrao-abstract-factory/23030)
 
 	4 - Builder
-			[Macoratti](https://www.macoratti.net/19/05/net_builder1.htm)
-			[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/builder)
+[Macoratti](https://www.macoratti.net/19/05/net_builder1.htm)<br/>
+[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/builder)
 
 
 	4 - Prototype
-			[Macoratti](https://macoratti.net/21/08/c_prototype1.htm)
-			[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/prototype)
-			[geeksforgeeks](https://www.geeksforgeeks.org/prototype-design-pattern)
+[Macoratti](https://macoratti.net/21/08/c_prototype1.htm)<br/>
+[refactoring.guru](https://refactoring.guru/pt-br/design-patterns/prototype)<br/>
+[geeksforgeeks](https://www.geeksforgeeks.org/prototype-design-pattern)
 
 3. Qualquer dúvida manda e-mail fernando.guerra@corujasdev.com.br
 
